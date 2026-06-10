@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jad-naaymi-9a8779226)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jadnaaymi1@gmail.com)
-[![Trailblazer](https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/profile)
+[![Trailblazer](https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/jnaaymi1)
 [![Location](https://img.shields.io/badge/Beirut%2C_Lebanon-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
