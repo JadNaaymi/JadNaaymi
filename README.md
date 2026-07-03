@@ -17,7 +17,7 @@
 
 ## 💼 About Me
 
-- 🔵 Salesforce Consultant specialized in **LWC, Apex, Experience Cloud**
+- 🔵 Salesforce Consultant specialized in **LWC, Apex, Experience Cloud,Sales Cloud,Service Cloud**
 - 🌐 Full-Stack developer across **web, mobile, and backend**
 - 🤝 Comfortable working directly with clients — from requirements to production
 - ⚡ Passionate about clean architecture, automation, and scalable solutions
